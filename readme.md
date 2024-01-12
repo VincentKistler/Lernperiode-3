@@ -1,14 +1,14 @@
 # Lern-Periode 3
 
-Max Muster
+Vincent Kistler
 
 12.1. bis 23.2.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+1. Mit den Noten im Fach Informatik stehe ich eigentlich gar nicht schlecht dar, meine einzige Schwachstelle war das Modul 162 über Datenmodelieren, da dies aber ein wichtiger Baustein für das Modul 164 ist, werde ich mich damit nochmal auseinandersetzten.
+2. ich hatte mir eigentlich vorgenommen mehrere Programme zu programmieren, da aber diese Lernperiode aus nur 4 Wochen besteht ist dies nahe zu unmöglich.
+3. ich habe mir schon in Lernperiode 2 ein geignetes Projekt ausgesucht, und zwar ein Runner spiel wie flappy bird oder mario.
 
 ## 12.1.2024
 
