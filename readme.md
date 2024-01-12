@@ -12,17 +12,19 @@ Vincent Kistler
 
 ## 12.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+heute habe ich an meinem Runner game weitergearbeitet. Man kann sich nun mit den Tasten d und a nach links und rechts bewegen. auch kann man mit der Spacebar springen und der charakter wird als 0 Dargestellt. Auch gibt es eine Platform auf die der Charakter gerumspringen kann. Was leider noch nicht funktioniert hat, sind die Obstacales also die Gegenstände in die der Charakter laufen kann und dann sterben soll.
 
 ## 19.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Es sollen Hindernisse ins Spiel implementiert werden
+- [ ] Das Movment soll entfernt werden und das Programm soll automatisch für den Spieler laufen.
+- [ ] Das Programm soll weiterlaufen, also wie bei flappy bird (kein ende)
+- [ ] Die Gegenstände sollen zufällig generiert werden. (höhe und breite)
+      
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
+| 1               |  Spieler soll sterben wenn er ein hinderniss berührt.                    |                |                |          |
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
