@@ -27,24 +27,27 @@ heute habe ich an meinem Runner game weitergearbeitet. Man kann sich nun mit den
 | 1               |  Spieler soll sterben wenn er ein hinderniss berührt.                    |  Programm soll checken ob er eine Kollision mit einem Hinderniss gibt              |    Spiel soll sich beenden            | nein         |
 | 2           |    Der Spieler soll sich nicht selber bewegen können, sondern das Programm soll vonalleine Pro 100 ticks ein tile nach vorne gehen                  |       programm lässt einen zähler hochzählen und jedes mal geht er ein tile nach vorne         |   Soll aufhören wenn eine Kollision entdeckt wurde             |  nein        |
 | 3             |   programm soll das Spielfeld immer wieder neu zeichnen                   |   es läuft auch ein zähler im hintergrund der jedes mal das Spielfeld um 1 erweitert und das hinten um 1 kürtzt             |  das Spielfeld soll niemald enden              |   nein       |
-| 4               | jedes Hinderniss soll zufällig generiert werden| zwei Zahlengeneratoren wählen eine Zahl aus diese bestimmen die höhe sowie breite des hindernisse|
+| 4               | jedes Hinderniss soll zufällig generiert werden| zwei Zahlengeneratoren wählen eine Zahl aus diese bestimmen die höhe sowie breite des hindernisse| Die Hindernisse werden im Anschluss aufs Spielfeld gezeichnet| nein|
+
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 ## 26.1.2024
 
-- [ ] Fünftes AP
-- [ ] Spiel endet, wenn Schlange sich selber beisst
+- [ ] Es soll ein Score Board am Rande hochzählen jedes mal wenn ein Hinderniss erfüllt wird
+- [ ] Der Spieler soll auswählen können ob er nochmal spielen möchte oder nicht
+- [ ] Das Programm sollte in ein GUI umgewandelt werden
+- [ ] Das Programm sollte ein End screen haben
 
 - [ ] Achtes AP
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
-| 5               |                                                              |                             |                |          |
-| 7               | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet    |          |
-| 8               |                                                              |                             |                |          |
-
+| 5               |   Es soll ein Score Board am Rande hochzählen jedes mal wenn ein Hinderniss erfüllt wird  | das Programm checkt ob das Hinderniss erfolgreich gemeistert wurde                            |wenn ja zählt das scoreboard 1 nach hoch wenn nicht beendet sich das Spiel                |  nein        |
+| 6              | Der Spieler soll auswählen können ob er nochmal spielen möchte oder nicht | ja oder nein | bei ja beginnt es nochmal bei nein beendet es sich    | nein         |
+| 7            |     Das Programm sollte in ein GUI umgewandelt werden |     -                        |     -           |     -     |
+| 8| Das Programm sollte ein End screen haben| Programm checkt ob der spieler gestorben ist| Das programm zeigt ein Death screen an und frägt ob man nochmal spielen möchte|nein|
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
