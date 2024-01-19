@@ -24,12 +24,14 @@ heute habe ich an meinem Runner game weitergearbeitet. Man kann sich nun mit den
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |  Spieler soll sterben wenn er ein hinderniss berührt.                    |  Programm soll checken ob er eine Kollision mit einem Hinderniss gibt              |    Spiel soll sich beenden            | nein         |
-| 2           |    Der Spieler soll sich nicht selber bewegen können, sondern das Programm soll vonalleine Pro 100 ticks ein tile nach vorne gehen                  |       programm lässt einen zähler hochzählen und jedes mal geht er ein tile nach vorne         |   Soll aufhören wenn eine Kollision entdeckt wurde             |  nein        |
-| 3             |   programm soll das Spielfeld immer wieder neu zeichnen                   |   es läuft auch ein zähler im hintergrund der jedes mal das Spielfeld um 1 erweitert und das hinten um 1 kürtzt             |  das Spielfeld soll niemald enden              |   nein       |
+| 1               |  Spieler soll sterben wenn er ein hinderniss berührt.                    |  Programm soll checken ob er eine Kollision mit einem Hinderniss gibt              |    Spiel soll sich beenden            | ja      |
+| 2           |    Der Spieler soll sich nicht selber bewegen können, sondern das Programm soll vonalleine Pro 100 ticks ein tile nach vorne gehen                  |       programm lässt einen zähler hochzählen und jedes mal geht er ein tile nach vorne         |   Soll aufhören wenn eine Kollision entdeckt wurde             |  ja        |
+| 3             |   programm soll das Spielfeld immer wieder neu zeichnen                   |   es läuft auch ein zähler im hintergrund der jedes mal das Spielfeld um 1 erweitert und das hinten um 1 kürtzt             |  das Spielfeld soll niemald enden              |   ja|
 | 4               | jedes Hinderniss soll zufällig generiert werden| zwei Zahlengeneratoren wählen eine Zahl aus diese bestimmen die höhe sowie breite des hindernisse| Die Hindernisse werden im Anschluss aufs Spielfeld gezeichnet| nein|
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+
+Ich habe heute im Distanz unterricht alle meine Arbeitspakete erreicht bis auf, das die Hindernisse zufällig generiert werden sollen. Es werden nun aber in einem zufälligen Abstand hindernisse generiert, die langsam auf einen zukommen, leider besteht immer noch das Problem, das der Spieler erst angezeigt wird, wenn es eine Eingabe gibt, das muss ich nächstes mal noch verbessern
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
