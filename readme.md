@@ -50,7 +50,9 @@ Ich habe heute im Distanz unterricht alle meine Arbeitspakete erreicht bis auf, 
 | 6              | Der Spieler soll auswählen können ob er nochmal spielen möchte oder nicht | ja oder nein | bei ja beginnt es nochmal bei nein beendet es sich    | nein         |
 | 7            |     Das Programm sollte in ein GUI umgewandelt werden |     -                        |     -           |     -     |
 | 8| Das Programm sollte ein End screen haben| Programm checkt ob der spieler gestorben ist| Das programm zeigt ein Death screen an und frägt ob man nochmal spielen möchte|nein|
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+✍️ (50-100 Wörter)
+
+Heute am 26.01.2024 habe ich an meinem Runner game weitergearbeitet, es gibt nun oben links ein scoreboard das hoch zählt wenn ein hinderniss überwunden wird, naja mehr oder weniger, das scoreboard zählt nur hoch wenn der spieler das Objekt berührt, es sollte aber hochzählen wenn er ein Hinderniss erfolgreich meistert, deswegen konnte ich den death screen und ob man nochmal spielen will noch nicht ausprobieren. Auch habe ich mich dazu entschieden bei einer konsolen anwendung zu bleiben, da es einen mehr reto style verleit. (84)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
