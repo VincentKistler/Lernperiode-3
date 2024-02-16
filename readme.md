@@ -58,10 +58,12 @@ Heute am 26.01.2024 habe ich an meinem Runner game weitergearbeitet, es gibt nun
 
 ## 16.2.2024
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+ich habe heute meinen Code noch ein wenig verbessert und ihn geputzt. Leider hat sich an den Funktionen nicht mehr viel geändert, das Scoreboard zählt immer noch hoch wenn man das Hinderniss berührt, und man stirbt nicht wenn man ein Objekt berührt.
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Die Lernperiode 3, war für mein Geschmack ein wenig zu kurz, ich konnte in dieser Zeit mein Projekt leider nicht fertigstellen, deshalb gibt es noch ein paar Funktionen die fehlen in meinem Game. Trotzdem bin ich mit meiner Leistung merheitlich zufrieden, da die Grundlegenden Aspekte im Game vorhanden sind und nicht sehr viel mehr fehlt bis das game "spilbereit" ist.
 
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Da mein VBV mehrere Projekt zu programmieren war, konnte ich diesen in dieser Lerperiode nicht erfüllen, da diese Lernperiode nur 4 Wochen lang war. Trotzdem werde ich mir den Verbesserungsvorschlag für die nächste Lernperiode merken und auch versuchen umzusetzen.
+
+Auch werde ich für die nächste Lernperiode versuchen mehr selber zu überlegen, anstatt direkt zu Kollegen gehen oder ChatGPT zu fragen.
